@@ -28,9 +28,6 @@ export default function Login() {
 			.catch(function (error) {
 				console.log(error);
 			});
-		// .finally(function () {
-		// 	// always executed
-		// });
 	};
 
 	return (
